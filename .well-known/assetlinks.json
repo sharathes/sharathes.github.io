@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.sharathes.twa",
-        "sha256_cert_fingerprints": ["8E:07:D9:E6:D1:6A:04:F2:13:C0:57:71:1B:EF:FE:4B:DC:F6:76:FC:0C:C4:5B:65:AA:07:AD:99:7E:23:EA:73"]
+        "sha256_cert_fingerprints": ["EB:A6:50:24:C9:2C:DA:84:64:03:F7:16:FF:E2:38:25:13:50:E5:4C:AC:D1:CE:A0:ED:DF:8F:A7:95:D1:AF:A9"]
       }
     }]
