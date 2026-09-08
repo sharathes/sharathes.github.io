@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sharathes.twa",
+        "sha256_cert_fingerprints": ["17:6E:2E:B1:45:76:13:01:90:4A:F4:8D:91:D0:B6:A1:51:8B:72:49:85:81:9D:FD:D2:5F:62:F2:FE:78:21:CB"]
+      }
+    }]
